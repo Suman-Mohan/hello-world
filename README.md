@@ -1,4 +1,4 @@
-java-hello-world-webapp
+hello-world-webapp
 =======================
 
 A simple java web app
